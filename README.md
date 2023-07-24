@@ -18,7 +18,11 @@ Users will need to install npm libraries. Set-Up CLI Commands from the project r
 
 For App initialization, type the following in the command line:
 
-> npm start
+> npm run develop
+
+To test run in Apollo Server Sandbox, type the following in the command line:
+> npm start <br>
+Then, open http://localhost:3001/graphql in your broswer
 
 [Deployment of application](https://google-search-book-engine-krs-84ac5b7a2e6f.herokuapp.com/)
 
