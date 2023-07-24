@@ -22,7 +22,7 @@ For App initialization, type the following in the command line:
 
 To test run in Apollo Server Sandbox, type the following in the command line:
 > npm start <br>
-Then, open http://localhost:3001/graphql in your broswer
+Then, open http://localhost:3001/graphql inside the Sandbox
 
 [Deployment of application](https://google-search-book-engine-krs-84ac5b7a2e6f.herokuapp.com/)
 
