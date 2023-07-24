@@ -2,7 +2,7 @@
 
 
 ## Description
-This project is a book search engine that allows you to view, save and delete books to a User profile. The application is refactored with the original functionality provided with a RESTful API that is replaced with the GraphQL Apollo Server, hosted with Heroku App. The functionality of the application demonstrates my current knowledge of full-stack web development. Highlighted proficiencies during development:
+This project is a book search engine that allows you to view, save and delete books to a User profile. The application is refactored with the original functionality provided with a RESTful API that is replaced with the GraphQL Apollo Server, hosted with Heroku App. The functionality of the application demonstrates my current knowledge as a full-stack web developer. Highlighted proficiencies during development:
 
 * MERN stack
 * Apollo Server & GraphQL
