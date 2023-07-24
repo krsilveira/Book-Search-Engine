@@ -20,7 +20,7 @@ For App initialization, type the following in the command line:
 
 > npm start
 
-[Deployment of application] (https://google-search-book-engine-krs-84ac5b7a2e6f.herokuapp.com/)
+[Deployment of application](https://google-search-book-engine-krs-84ac5b7a2e6f.herokuapp.com/)
 
 ## User Story
 ```
